@@ -21,3 +21,8 @@ need to generate locally : ssh-keygen -t {type of encryption} -b {strength of en
 
 ## need to find the key 
 ls | grep testkey -> need to upload the .pub file to interface 
+
+## branching 
+use git branch to see the branches in the repo
+use git checkout to switch branches 
+use git checkout -b {feature} to create a new branch
